@@ -95,7 +95,7 @@ Google has the disclaimer "Gemini will not always get it right. Gemini may give 
 
 
 > ##### *References:* 
-<www.Perplexity.ai>
+www.Perplexity.ai
 
 <www.Cnbc.com>
 
