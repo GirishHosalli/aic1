@@ -60,13 +60,13 @@ Phind is a another way to interact with a GPT-3.5-based search engine that can a
 
 ## Results
 
-* What has been the business impact of this company so far? With Perplexity’s search tools, users get instant, reliable answers to any question with complete sources and citations included. There is no need to click on different links, compare answers, or endlessly dig for information. 
+* Business impact: With Perplexity’s search tools, users get instant, reliable answers to any question with complete sources and citations included. There is no need to click on different links, compare answers, or endlessly dig for information. 
 * In an era where misinformation and AI hallucinations are causing increasing concern, it is built on the idea that accuracy and transparency are prerequisites to making AI-powered search ubiquitous. The times of sifting through SEO spam, sponsored links, and multiple web pages will be replaced by a much more efficient way to consume and share information, propelling our society into a new era of accelerated learning and research.
 * Perplexity.AI has been highly reviewed and has some big name backers which is causing huge media buzz around it. Company claims it has around 10 million users currently. 
 * Something that should be mentioned is that Perplexity.ai is publisher-friendly. It does a great job of linking to the websites from which the answers were sourced.
 * The company has seen an uptick in subscribers of its premium Copilot service, which charges $20 a month for a more powerful version of the search engine that uses GPT-4, OpenAI’s most advanced AI model. Copilot tailors search queries with custom follow-up questions, introducing the concept of generative user interfaces. It removes the burden of prompt engineering and does not require users to ask perfectly phrased questions to get the answers they seek. This enables users to gain more relevant and comprehensive answers than other AI chatbots, traditional search engines, or research tools.
-* Company also offers model subscription business. They currently have about 10k developers signed up, but no large enterprises yet. Their current estimated annual revenue is around 10 million. 
-* Of course, even if Perplexity does hit a $1 billion valuation, it has a long way to go to truly challenge Google, which has enormous resources and AI talent at its disposal—and whose parent Alphabet is valued at $1.7 trillion.
+* Company also offers model subscription business. They currently have about 10k developers signed up, but no large enterprises yet. Their current estimated annual revenue is estimated to be around $10 million. 
+* Of course, even if Perplexity does hit a $1 billion valuation, it has a long way to go to truly challenge Google, which has enormous resources and AI talent at its disposal—and whose parent Alphabet is valued at around $1.7 trillion.
 * When a Fortune magazine reporter asked Perplexity's CEO 'how on earth Perplexity finds scale in search?' Answer he got was “You can ask all these questions and I think they’re all fair, pretty rational ways of thinking about it. But startups are for irrational people, right?” Fair point!
 
 
