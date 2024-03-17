@@ -1,15 +1,21 @@
 # Perplexity.AI Search Engine
 
 ## Overview and Origin
-* [Perplexity.AI](https://www.perplexity.ai) was started in August 2022 before ChatGPT 3.5 came out. Perplexity.ai is a serious contender in AI Search. It was founded by people with links to DeepMind and OpenAI and is funded by leading Silicon Valley investors.
+
+___
+
+* [Perplexity.AI](https://www.perplexity.ai Answer engine where the knowledge begins) was started in August 2022 before ChatGPT 3.5 came out. Perplexity.ai is a serious contender in AI Search. It was founded by people with links to DeepMind and OpenAI and is funded by leading Silicon Valley investors.
 * It's founders are **Aravind Srinivas, Denis Yarats**. **Johnny Ho** came on board soon after. Johnny Ho has won number [2012 International Competitive Programming Contest](https://cphof.org/standings/ioi/2012).
 * Company initially started as Text to SQL tool company. It's CEO Aravind Srinivas said in a [CNBC interview](https://www.cnbc.com/video/2024/03/04/google-seems-to-have-the-most-difficulty-executing-when-it-comes-to-ai-says-perplexity-ceo.html?&qsearchterm=perplexity.ai), when his first employee was asking about healthcare, deductibles, copay etc. Aravind says he did not know what it all meant at that time. He searched Google and was served with whole list of links to go read up to figure out. Apparently that was the time he thought of building a search engine that would provide the true and verifiable answers to users queries.
-* Aravind did internship with Open AI and Deepmind while doing his PhD at UC Berkley. He did BS and MS from IIT, Chennai, India. He stumbled upon the book "How Google Works" by Eric Schmidt while working as an intern for Deepmind in London. Aravind says, his take away from that book how the research work can be translated into entrepreneurship. It appealed to him very much. He found out Transformer was highly ranked search term at that time. He then did internship at Google with Ashish Vaswani, a key contributor to transformer. After completing his PhD from UC he joined Open AI as a researcher, where he worked on another one of the generative model called Diffusion Model. There he saw how many other companies like Jasper, Copy AI and GitHub copilot were building products on top of Open AI's Chat GPT. They were making lot more revenue than Open AI itself. Then he thought of starting his own company. Elad Gil and Nat Friedman were initial seed investors.
+* Aravind did internship with Open AI and Deepmind while doing his PhD at UC Berkley. He did BS and MS from IIT, Chennai, India. He stumbled upon the book "How Google Works" by Eric Schmidt while working as an intern for Deepmind in London. Aravind says, his take away from that book how the research work can be translated into entrepreneurship. It appealed to him very much. He found out [*Transformer*](https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)) was highly ranked search term at that time. He then did internship at Google with Ashish Vaswani, a key contributor to transformer. After completing his PhD from UC he joined Open AI as a researcher, where he worked on another one of the generative model called Diffusion Model. There he saw how many other companies like Jasper, Copy AI and GitHub copilot were building products on top of Open AI's Chat GPT. They were making lot more revenue than Open AI itself. Then he thought of starting his own company. Elad Gil and Nat Friedman were initial seed investors.
 * It got initial seed funding of about $2.5 million. Last year it raised about $25.6 million in [Series A funding](https://www.perplexity.ai/hub/blog/announcing-our-series-a-funding-round-and-mobile-app-launch). In Jan 2024 it raised another $73.6 Million in [Series B funding](https://www.perplexity.ai/hub/blog/perplexity-raises-series-b-funding-round). They have raised about $100 million now and it is currently valued at around $520 million. 
 * Perplexity is rumored to be finalizing their third round of fund raise valuing the company at around $1 B, according to [WSJ](https://www.wsj.com/tech/ai/ai-search-startup-perplexity-set-to-double-valuation-to-1-billion-b84be204).
 * It's backers include NEA, Elad Gil, Nat Friedman (former CEO of GitHub), and Databricks, Susan Wojcicki (Former CEO of Youtube), Paul Buchheit (Creator of Gmail), Soleio (Designer of Messenger, Dropbox), NVIDIA, Yann LeCun (Chief Scientist, Meta), Andrej Karpathy (Founding Member, OpenAI), Ashish Vaswani (Lead contributor to Transformer), Amjad Masad (CEO, Replit), Clem Delangue (CEO, HuggingFace), Jeff Bezos (through Bezos Expeditions Fund), Tobi Lutke (Shopify founder & CEO), Bob Muglia (former Microsoft President), Bessemer Venture Partners, Naval Ravikant, Balaji Srinivasan, Guillermo Rauch, Austen Allred, Factorial Funds, and Kindred Ventures,
 
 ## Business Activities
+
+___
+
 * [Perplexity.ai](https://www.perplexity.ai), founded in 2022, is an innovative alternative to Google that provides contextually rich answers and has 10 million monthly active users.
 * Perplexity's mission statement "Our long-term mission is to become the best platform for answers and information, serving as the go-to source for people seeking quick, accurate answers tailored to their asks.
 We envision Perplexity AI as a platform beyond a traditional search engine, evolving into a comprehensive knowledge hub where anyone can explore and learn effortlessly. In pursuit of this vision, we are committed to providing citations with every answer, providing proper attribution for sources of information and allowing for verification."
@@ -21,6 +27,9 @@ We envision Perplexity AI as a platform beyond a traditional search engine, evol
 * One can think of it as a wrapper around GPT-3.5 with additional optimization. As I uderstand, it also uses other open source models like Mistral and Llama.
 
 ## Landscape 
+
+___
+
 In the last few years there have been lot of interest in building AI based web search tools. Below are some of the AI Search Engine companies (source [Search Engine Journal](https://www.searchenginejournal.com)).
 
 ### Andi Search 
@@ -82,21 +91,21 @@ Google has the disclaimer "Gemini will not always get it right. Gemini may give 
 * The company has seen an uptick in subscribers of its premium Copilot service, which charges $20 a month for a more powerful version of the search engine that uses GPT-4, OpenAI’s most advanced AI model. Copilot tailors search queries with custom follow-up questions, introducing the concept of generative user interfaces. It removes the burden of prompt engineering and does not require users to ask perfectly phrased questions to get the answers they seek. This enables users to gain more relevant and comprehensive answers than other AI chatbots, traditional search engines, or research tools.
 * Company also offers model subscription business. They currently have about 10k developers signed up, but no large enterprises yet. Their current estimated annual revenue is estimated to be around $10 million. 
 * Of course, even if Perplexity does hit a $1 billion valuation, it has a long way to go to truly challenge Google, which has enormous resources and AI talent at its disposal—and whose parent Alphabet is valued at around $1.7 trillion.
-* When a Fortune magazine reporter asked Perplexity's CEO 'how on earth Perplexity finds scale in search?' Answer he got was “You can ask all these questions and I think they’re all fair, pretty rational ways of thinking about it. But startups are for irrational people, right?” Fair point!
+* When a Fortune magazine reporter asked Perplexity's CEO "*how on earth Perplexity finds scale in search?*" Answer he got was “*You can ask all these questions and I think they’re all fair, pretty rational ways of thinking about it. But startups are for irrational people, right?*” Fair point!
 
 
-##### *References: 
-Perplexity.ai
+##### >*References:* 
+*<Perplexity.ai>*
 
-Cnbc.com
+*<Cnbc.com>*
 
-SearchEngineJournal.com
+*<SearchEngineJournal.com>*
 
-Youtube.com
+*<Youtube.com>*
 
-Fortune.com
+*<Fortune.com>*
 
-WSJ.com
+*<WSJ.com>*
 
-pcmag.com*
+*<pcmag.com>*
 
