@@ -94,18 +94,18 @@ Google has the disclaimer "Gemini will not always get it right. Gemini may give 
 * When a Fortune magazine reporter asked Perplexity's CEO "*how on earth Perplexity finds scale in search?*" Answer he got was “*You can ask all these questions and I think they’re all fair, pretty rational ways of thinking about it. But startups are for irrational people, right?*” Fair point!
 
 
-##### > *References:* 
-*<www.Perplexity.ai>*
+> ##### *References:* 
+<www.Perplexity.ai>
 
-*<www.Cnbc.com>*
+<www.Cnbc.com>
 
-*<www.SearchEngineJournal.com>*
+<www.SearchEngineJournal.com>
 
-*<www.Youtube.com>*
+<www.Youtube.com>
 
-*<www.Fortune.com>*
+<www.Fortune.com>
 
-*<www.WSJ.com>*
+<www.WSJ.com>
 
-*<www.pcmag.com>*
+<www.pcmag.com>
 
