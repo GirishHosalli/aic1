@@ -19,8 +19,7 @@ We envision Perplexity AI as a platform beyond a traditional search engine, evol
 * Perplexity AI focuses on providing accurate and detailed information in response to user queries through a chatbot-like interface, while GPT-3 excels in generating diverse types of content with human-like quality but may not offer the same level of precision in answering specific questions as Perplexity AI does.
 * One can think of it as a wrapper around GPT-3.5 with additional optimization. As I uderstand, it also uses other open source models like Mistral and Llama.
 
-##Landscape 
-* Perplexity.AI is an AI search engine.
+## Landscape 
 * In the last few years there have been lot of interest in building AI based web search tools. Below are some of the AI Search Engine companies (source [Search Engine Journal](https://www.searchenginejournal.com)).
 
 ### Andi Search 
