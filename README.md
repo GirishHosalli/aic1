@@ -2,7 +2,7 @@
 
 ## Overview and Origin
 
-* [Perplexity.AI](https://www.perplexity.ai "Answer engine where the knowledge begins") was started back in August 2022. Perplexity.ai is a serious contender in AI Search. It was founded by people with links to DeepMind, OpenAI & Quora. It is funded by some of the leading Silicon Valley investors.
+* [Perplexity.AI](https://www.perplexity.ai "Answer engine where the knowledge begins") was started back in August 2022. Perplexity.ai is a serious contender in AI Search. It was founded by people with links to DeepMind, OpenAI & Quora. It is backed by some of the leading Silicon Valley investors.
 * It's founders are **Aravind Srinivas, CEO and Denis Yarats, CTO**. **Johnny Ho** came on board soon after. Johnny Ho has won number [2012 International Competitive Programming Contest](https://cphof.org/standings/ioi/2012).
 * Company initially started as Text to SQL tool company. It's CEO Aravind Srinivas said in a [CNBC interview](https://www.cnbc.com/video/2024/03/04/google-seems-to-have-the-most-difficulty-executing-when-it-comes-to-ai-says-perplexity-ceo.html?&qsearchterm=perplexity.ai), when his first employee was asking about healthcare, deductibles, copay etc. he did not know what it all meant at that time. He searched Google and was served with whole list of links to go read up and figure out. Apparently that was the time he thought of building a search/answer engine that would provide detailed true and verifiable answers to users queries.
 * Aravind did internship with Open AI and Deepmind while doing his PhD at UC Berkley. He did BS and MS from IIT, Chennai, India. He stumbled upon the book "*How Google Works*" by Eric Schmidt while working as an intern for Google's Deepmind in London. Aravind says, his take away from that book how the research work can be translated into entrepreneurship. He found out [*Transformer*](https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)) was highly ranked search term at that time on Google. He then did internship at Google alongside Ashish Vaswani, a key contributor to transformer. After completing his PhD from UC he joined Open AI as a researcher, where he worked on a generative model called Diffusion Model. During that time he observed how many other companies like *Jasper*, *Copy AI* and *GitHub copilot* were building products on top of Open AI's Chat GPT. They were making lot more revenue than Open AI itself. Then he thought of starting his own company. 
@@ -103,3 +103,4 @@ Google has the disclaimer "Gemini will not always get it right. Gemini may give 
 
 *www.pcmag.com*
 
+![alt text](image.png)
