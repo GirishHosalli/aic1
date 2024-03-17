@@ -95,17 +95,17 @@ Google has the disclaimer "Gemini will not always get it right. Gemini may give 
 
 
 > ##### *References:* 
-www.Perplexity.ai
+*www.Perplexity.ai*
 
-<www.Cnbc.com>
+www.Cnbc.com
 
-<www.SearchEngineJournal.com>
+www.SearchEngineJournal.com
 
-<www.Youtube.com>
+www.Youtube.com
 
-<www.Fortune.com>
+www.Fortune.com
 
-<www.WSJ.com>
+www.WSJ.com
 
-<www.pcmag.com>
+www.pcmag.com
 
