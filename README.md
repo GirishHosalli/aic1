@@ -2,8 +2,8 @@
 
 ## Overview and Origin
 * [Perplexity.AI](https://www.perplexity.ai) was started in August 2022 before ChatGPT 3.5 came out. Perplexity.ai is a serious contender in AI Search. It was founded by people with links to DeepMind and OpenAI and is funded by leading Silicon Valley investors.
-* It's founders are Aravind Srinivas, Denis Yarats. Johnny Ho came on board soon after. Johnny Ho has been number won [2012 International Competitive Programming Contest](https://cphof.org/standings/ioi/2012).
-* Company initially started as Text to SQL tool company. It's CEO Aravind Srinivas said in a [CNBC interview](https://www.cnbc.com/video/2024/03/04/google-seems-to-have-the-most-difficulty-executing-when-it-comes-to-ai-says-perplexity-ceo.html?&qsearchterm=perplexity.ai), when his first employee was asking about healthcare, deductibles, copay etc. Aravind says he did not know what it all meant at that time. He hails from India and fresh out UC Berkley with a PhD and having worked for a period of time in Open AI.  He searched Google and was served with whole list of links to go read up to figure out. Apparently that was the time he thought of building a search engine that would provide the true and verifiable answers to users queries.
+* It's founders are **Aravind Srinivas, Denis Yarats**. **Johnny Ho** came on board soon after. Johnny Ho has won number [2012 International Competitive Programming Contest](https://cphof.org/standings/ioi/2012).
+* Company initially started as Text to SQL tool company. It's CEO Aravind Srinivas said in a [CNBC interview](https://www.cnbc.com/video/2024/03/04/google-seems-to-have-the-most-difficulty-executing-when-it-comes-to-ai-says-perplexity-ceo.html?&qsearchterm=perplexity.ai), when his first employee was asking about healthcare, deductibles, copay etc. Aravind says he did not know what it all meant at that time. He searched Google and was served with whole list of links to go read up to figure out. Apparently that was the time he thought of building a search engine that would provide the true and verifiable answers to users queries.
 * Aravind did internship with Open AI and Deepmind while doing his PhD at UC Berkley. He did BS and MS from IIT, Chennai, India. He stumbled upon the book "How Google Works" by Eric Schmidt while working as an intern for Deepmind in London. Aravind says, his take away from that book how the research work can be translated into entrepreneurship. It appealed to him very much. He found out Transformer was highly ranked search term at that time. He then did internship at Google with Ashish Vaswani, a key contributor to transformer. After completing his PhD from UC he joined Open AI as a researcher, where he worked on another one of the generative model called Diffusion Model. There he saw how many other companies like Jasper, Copy AI and GitHub copilot were building products on top of Open AI's Chat GPT. They were making lot more revenue than Open AI itself. Then he thought of starting his own company. Elad Gil and Nat Friedman were initial seed investors.
 * It got initial seed funding of about $2.5 million. Last year it raised about $25.6 million in [Series A funding](https://www.perplexity.ai/hub/blog/announcing-our-series-a-funding-round-and-mobile-app-launch). In Jan 2024 it raised another $73.6 Million in [Series B funding](https://www.perplexity.ai/hub/blog/perplexity-raises-series-b-funding-round). They have raised about $100 million now and it is currently valued at around $520 million. 
 * Perplexity is rumored to be finalizing their third round of fund raise valuing the company at around $1 B, according to [WSJ](https://www.wsj.com/tech/ai/ai-search-startup-perplexity-set-to-double-valuation-to-1-billion-b84be204).
@@ -21,7 +21,7 @@ We envision Perplexity AI as a platform beyond a traditional search engine, evol
 * One can think of it as a wrapper around GPT-3.5 with additional optimization. As I uderstand, it also uses other open source models like Mistral and Llama.
 
 ## Landscape 
-* In the last few years there have been lot of interest in building AI based web search tools. Below are some of the AI Search Engine companies (source [Search Engine Journal](https://www.searchenginejournal.com)).
+In the last few years there have been lot of interest in building AI based web search tools. Below are some of the AI Search Engine companies (source [Search Engine Journal](https://www.searchenginejournal.com)).
 
 ### Andi Search 
 [Andi Search](https://andisearch.com) is a generative AI search engine that offers an interpretation of a better way to explore the Internet and obtain knowledge.
@@ -67,11 +67,11 @@ Copilot relies on leading generative AI models from OpenAI, namely ChatGPT-4 and
 
 ### Google Gemini
 Google LLM Gemini works in a couple of key ways:
-* Multimodal Understanding: Gemini model is trained on a massive dataset that includes text, code, audio, images, and video all together. This lets it understand the connections between these different information types.
-* Unified Training Approach: Traditionally, multimodal AI involved training separate models for each data type and then somehow stitching them together. Gemini ditches this approach. It uses a single, unified training process that lets it learn how these different data types relate to each other from the start.
-* Gemini is a neural network architecture specifically designed for processing and understanding text. However, Gemini's additional training on other data types makes it much more versatile than a standard LLM.
+Multimodal Understanding: Gemini model is trained on a massive dataset that includes text, code, audio, images, and video all together. This lets it understand the connections between these different information types.
+Unified Training Approach: Traditionally, multimodal AI involved training separate models for each data type and then somehow stitching them together. Gemini ditches this approach. It uses a single, unified training process that lets it learn how these different data types relate to each other from the start.
+Gemini is a neural network architecture specifically designed for processing and understanding text. However, Gemini's additional training on other data types makes it much more versatile than a standard LLM.
 
-Google says right at the has the disclaimer "Gemini will not always get it right. Gemini may give inaccurate or offensive responses. When in doubt, use the Google button to double-check Gemini's responses."
+Google has the disclaimer "Gemini will not always get it right. Gemini may give inaccurate or offensive responses. When in doubt, use the Google button to double-check Gemini's responses."
 
 ## Results
 
@@ -85,11 +85,18 @@ Google says right at the has the disclaimer "Gemini will not always get it right
 * When a Fortune magazine reporter asked Perplexity's CEO 'how on earth Perplexity finds scale in search?' Answer he got was “You can ask all these questions and I think they’re all fair, pretty rational ways of thinking about it. But startups are for irrational people, right?” Fair point!
 
 
-References: 
+##### *References: 
 Perplexity.ai
+
 Cnbc.com
+
 SearchEngineJournal.com
+
 Youtube.com
+
 Fortune.com
+
 WSJ.com
+
+pcmag.com*
 
