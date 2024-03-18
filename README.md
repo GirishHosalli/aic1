@@ -34,10 +34,12 @@ In the last few years there have been lot of interest in building AI based web s
 
 |  Search Engine  | Company                 | Founders                    |     LLM Model                 | 
 |:---------------:|:-----------------------:|:---------------------------:|:------------------:|
-|  Andi Search    |    Andi                 | Angela Hoover               | several commercial and open-source Large Language Models (LLMs), knowledge graphs, and Google, Bing, and other search engines        |
-|  Brave Search   |    Brave Software       | Brendan Eich and Brian Bondy|  BART & DeBERTa                  |
+| Perplexity.AI   |  Perplexity Ai          | Aravind Srinivas, Denis Yarats, Johnny Ho, and Andy Konwinski
+|  pplx-7b-online based on mistral-7b model, while the pplx-70b-online model is built on top of the llama2-70b base model |
+|  Andi Search    |    Andi                 | Angela Hoover               | Several commercial and open-source Large Language Models (LLMs), knowledge graphs, and Google, Bing, and other search engines        |
+|  Brave Search   |    Brave Software       | Brendan Eich and Brian Bondy|  Mixtral 8x7B                  |
 | You AI          |   You.com               | Richard Socher              | Vicuna-13B which is trained from finetuning LLaMa 13B      |
-| Phind           |   Hello Cognition, Inc  |                             | PHIND-34B MODEL  |
+| Phind           |   Hello Cognition, Inc  |                             | Vicuna-13B open-source conversational model, which is trained from fine-tuning the LLaMa 13B model  |
 | Bing w/ Copilot |   Microsoft             | Bill Gates and Paul Allen   | GPT-4     |
 | Gemini          |   Alphabet              | Larry Page and Sergey Brin  | Gemini Ultra, Gemini Pro, and Gemini Nano  |                   
 
