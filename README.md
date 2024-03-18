@@ -35,7 +35,7 @@ In the last few years there have been lot of interest in building AI based web s
 |  Search Engine  | Company                 | Founders                    |     LLM Model                 | 
 |:---------------:|:-----------------------:|:---------------------------:|:------------------:|
 | Perplexity.AI   |  Perplexity Ai          | Aravind Srinivas, Denis Yarats, Johnny Ho, and Andy Konwinski |  pplx-7b-online based on mistral-7b model & while the pplx-70b-online is built on top of llama2-70b base model |
-|  ['Andi Search'](#andi-search)    |    Andi                 | Angela Hoover               | Several commercial and open-source Large Language Models (LLMs), knowledge graphs, and Google, Bing, and other search engines        |
+|  [Andi Search](#andi-search)    |    Andi                 | Angela Hoover               | Several commercial and open-source Large Language Models (LLMs), knowledge graphs, and Google, Bing, and other search engines        |
 |  ['Brave Search'](#brave-ai-search-summarizer)   |    Brave Software       | Brendan Eich and Brian Bondy|  Mixtral 8x7B                  |
 | ['You AI'](#you-ai-search-engine)          |   You.com               | Richard Socher              | Vicuna-13B which is trained from finetuning LLaMa 13B      |
 | ['Phind'](#phindcom)           |   Hello Cognition, Inc  |                             | Vicuna-13B open-source conversational model, which is trained from fine-tuning the LLaMa 13B model  |
