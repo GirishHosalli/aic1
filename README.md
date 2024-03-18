@@ -14,7 +14,7 @@
 
 * [Perplexity.ai](https://www.perplexity.ai), founded in 2022, is an innovative alternative to Google that provides contextually rich answers and has 10 million monthly active users.
 * Perplexity's mission statement 
-> "Our long-term mission is to become the best platform for answers and information, serving as the go-to source for people seeking quick, accurate answers tailored to their asks.
+    > "Our long-term mission is to become the best platform for answers and information, serving as the go-to source for people seeking quick, accurate answers tailored to their asks.
 We envision Perplexity AI as a platform beyond a traditional search engine, evolving into a comprehensive knowledge hub where anyone can explore and learn effortlessly. In pursuit of this vision, we are committed to providing citations with every answer, providing proper attribution for sources of information and allowing for verification."
 * It is built specifically to provide accurate and verifiable answers to users' search queries. 
 * It prides itself as serving answers that are verifiable. By providing answers using data from verifiable sources it avoids hallucination problem, according to it's CEO. 
