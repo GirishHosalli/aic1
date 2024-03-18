@@ -1,4 +1,4 @@
-# Case Study: Search engine Perplexity.AI
+# Case Study: Perplexity.AI search engine
 
 ## Overview and Origin
 
