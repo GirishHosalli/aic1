@@ -84,9 +84,9 @@ Copilot searches for relevant content across the web and then summarizes what it
 Copilot relies on leading generative AI models from OpenAI, namely ChatGPT-4 and DALL-E 3. In addition to using these two OpenAI models, Copilot also relies on the large web-scraping database from the Bing search engine, Microsoft Natural Language Processing, Text to Speech (TTS) for generating lifelike speech responses, Retrieval Augmentation Generation (RAG) to ground and add context, and Azure cloud services.
 
 ### Google's Gemini
-Google LLM Gemini works in a couple of key ways:
-Multimodal Understanding: Gemini model is trained on a massive dataset that includes text, code, audio, images, and video all together. This lets it understand the connections between these different information types.
-Unified Training Approach: Traditionally, multimodal AI involved training separate models for each data type and then somehow stitching them together. Gemini ditches this approach. It uses a single, unified training process that lets it learn how these different data types relate to each other from the start.
+Google LLM [Gemini](https://gemini.google.com/app) works in a couple of key ways:
+- Multimodal Understanding: Gemini model is trained on a massive dataset that includes text, code, audio, images, and video all together. This lets it understand the connections between these different information types.
+- Unified Training Approach: Traditionally, multimodal AI involved training separate models for each data type and then somehow stitching them together. Gemini ditches this approach. It uses a single, unified training process that lets it learn how these different data types relate to each other from the start.
 Gemini is a neural network architecture specifically designed for processing and understanding text. However, Gemini's additional training on other data types makes it much more versatile than a standard LLM.
 
 Google has the disclaimer "Gemini will not always get it right. Gemini may give inaccurate or offensive responses. When in doubt, use the Google button to double-check Gemini's responses."
@@ -98,7 +98,7 @@ Google has the disclaimer "Gemini will not always get it right. Gemini may give 
 * Perplexity.AI has been highly reviewed and has some big name backers which is causing huge media buzz around it. Company claims it has around 10 million users currently. 
 * Something that should be mentioned is that Perplexity.ai is publisher-friendly as it links the websites from which the answers were sourced.
 * The company has seen an uptick in subscribers of its premium Copilot service, which charges $20 a month for a more powerful version of the search engine. Copilot tailors search queries with custom follow-up questions, introducing the concept of generative user interfaces. It removes the burden of prompt engineering and does not require users to ask perfectly phrased questions to get the answers they seek. This enables users to gain more relevant and comprehensive answers than other AI chatbots, traditional search engines, or research tools.
-* Company also offers model subscription business. They currently have about 10k developers signed up, but no large enterprises yet. Their current estimated annual revenue is estimated to be around $10 million. 
+* Company also offers their LLM Model subscription business. They currently have about 10k developers signed up, according to it's CEO, but no large enterprises yet. Their current estimated annual revenue is estimated to be around $10 million. 
 * Of course, even if Perplexity does hit a $1 billion valuation, it has a long way to go to truly challenge Google, which has enormous resources and AI talent at its disposal—and whose parent Alphabet is valued at around $1.7 trillion.
 * When a Fortune magazine reporter asked Perplexity's CEO "*how on earth Perplexity finds scale in search?*" Answer he got was “*You can ask all these questions and I think they’re all fair, pretty rational ways of thinking about it. But startups are for irrational people, right?*” Fair point!
 
