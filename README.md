@@ -22,9 +22,8 @@ We envision Perplexity AI as a platform beyond a traditional search engine, evol
 ![alt text](image-1.png)
 * As you can see above, rendered results point the source of information and user go to the source itslef. User is also presented with additional related questions which then can give additional information.
 
-* The technical architecture behind Perplexity AI involves a neural network architecture similar to GPT-3, but with optimizations that enhance its functionality. Perplexity AI harnesses the power of OpenAI's GPT-3.5, enabling it to provide precise and up-to-date answers. When a user inputs a query, Perplexity AI uses natural language processing (NLP) to understand the context and intent of the question. It then scours the internet in real-time, indexing web pages and content to find relevant answers. The platform ranks results to ensure the most relevant, reliable, and up-to-date information is presented first.
+* The technical architecture behind Perplexity AI involves a neural network architecture similar to GPT-3, but with optimizations that enhance its functionality. One can think of it as a wrapper around GPT with additional optimization. It uses pplx-7b-online model which is based on mistral-7b model & pplx-70b-online model that is built on top of llama2-70b base model. When a user inputs a query, Perplexity AI uses natural language processing (NLP) to understand the context and intent of the question. It then scours the internet in real-time, indexing web pages and content to find relevant answers. The platform ranks results to ensure the most relevant, reliable, and up-to-date information is presented first.
 * Perplexity AI focuses on providing accurate and detailed information in response to user queries through a chatbot-like interface, while GPT-3 excels in generating diverse types of content with human-like quality but may not offer the same level of precision in answering specific questions as Perplexity AI does.
-* One can think of it as a wrapper around GPT with additional optimization. Perplexity leverages models like GPT-4, Claude 2.1, and Gemini Pro to provide a conversational search experience that evolves alongside AI innovations.
 * [Perplexity has built two new PPLX models](https://www.perplexity.ai/hub/blog/introducing-pplx-online-llms): pplx-7b-online and pplx-70b-online and are publicly available via [pplx-api](https://docs.perplexity.ai/docs/getting-started). PPLX models build on top of mistral-7b and llama2-70b base models.
 * pplx-7b-online and pplx-70b-online are also accessible via [Perplexity Labs](https://labs.perplexity.ai).
 
@@ -36,11 +35,11 @@ In the last few years there have been lot of interest in building AI based web s
 |:---------------:|:-----------------------:|:---------------------------:|:------------------:|
 | Perplexity.AI   |  Perplexity Ai          | Aravind Srinivas, Denis Yarats, Johnny Ho, and Andy Konwinski |  pplx-7b-online based on mistral-7b model & while the pplx-70b-online is built on top of llama2-70b base model |
 |  [Andi Search](#andi-search)    |    Andi                 | Angela Hoover               | Several commercial and open-source Large Language Models (LLMs), knowledge graphs, and Google, Bing, and other search engines        |
-|  ['Brave Search'](#brave-ai-search-summarizer)   |    Brave Software       | Brendan Eich and Brian Bondy|  Mixtral 8x7B                  |
-| ['You AI'](#you-ai-search-engine)          |   You.com               | Richard Socher              | Vicuna-13B which is trained from finetuning LLaMa 13B      |
-| ['Phind'](#phindcom)           |   Hello Cognition, Inc  |                             | Vicuna-13B open-source conversational model, which is trained from fine-tuning the LLaMa 13B model  |
-| ['Bing w/ Copilot'](#bing-with-copilot) |   Microsoft             | Bill Gates and Paul Allen   | GPT-4     |
-| ['Gemini'](#google-gemini)          |   Alphabet              | Larry Page and Sergey Brin  | Gemini Ultra, Gemini Pro, and Gemini Nano  |                   
+|  [Brave Search](#brave-ai-search-summarizer)   |    Brave Software       | Brendan Eich and Brian Bondy|  Mixtral 8x7B                  |
+| [You AI](#you-ai-search-engine)          |   You.com               | Richard Socher              | Vicuna-13B which is trained from finetuning LLaMa 13B      |
+| [Phind](#phind)           |   Hello Cognition, Inc  |                             | Vicuna-13B open-source conversational model, which is trained from fine-tuning the LLaMa 13B model  |
+| [Bing w/ Copilot](#bing-with-copilot) |   Microsoft             | Bill Gates and Paul Allen   | GPT-4     |
+| [Gemini](#googles-gemini)          |   Alphabet              | Larry Page and Sergey Brin  | Gemini Ultra, Gemini Pro, and Gemini Nano  |                   
 
 ### Andi Search 
 [Andi Search](https://andisearch.com) is a generative AI search engine that offers an interpretation of a better way to explore the Internet and obtain knowledge.
@@ -71,7 +70,7 @@ YouChat can write code, summarize complex topics, generate images, write code, a
 You.com features YouAgent, an AI agent that writes code and can run it in its own environment, then take further action based on the output.
 YouChat is designed to engage in detailed discussions and conversations with users. It can understand context, ask clarifying questions, and provide follow-up information based on the user's input.
 
-### Phind.com
+### Phind
 [Phind](https://www.phind.com/search?home=true) calls itself a generative AI search engine for developers.
 While it self-describes as AI search for developers, it does a great job of surfacing answers from trustworthy websites.
 Phind is an intelligent answer engine for developers to help them solve tough problems.
@@ -84,7 +83,7 @@ Beyond generating a list of relevant links, Copilot consolidates reliable source
 Copilot searches for relevant content across the web and then summarizes what it finds to generate a helpful response. It also cites its sources, so you’re able to see links to the web content it references.
 Copilot relies on leading generative AI models from OpenAI, namely ChatGPT-4 and DALL-E 3. In addition to using these two OpenAI models, Copilot also relies on the large web-scraping database from the Bing search engine, Microsoft Natural Language Processing, Text to Speech (TTS) for generating lifelike speech responses, Retrieval Augmentation Generation (RAG) to ground and add context, and Azure cloud services.
 
-### Google Gemini
+### Google's Gemini
 Google LLM Gemini works in a couple of key ways:
 Multimodal Understanding: Gemini model is trained on a massive dataset that includes text, code, audio, images, and video all together. This lets it understand the connections between these different information types.
 Unified Training Approach: Traditionally, multimodal AI involved training separate models for each data type and then somehow stitching them together. Gemini ditches this approach. It uses a single, unified training process that lets it learn how these different data types relate to each other from the start.
@@ -97,8 +96,8 @@ Google has the disclaimer "Gemini will not always get it right. Gemini may give 
 * Business impact: With Perplexity’s search tools, users get instant, reliable answers to any question with complete sources and citations included. There is no need to click on different links, compare answers, or endlessly dig for information. 
 * In an era where misinformation and AI hallucinations are causing increasing concern, it is built on the idea that accuracy and transparency are prerequisites to making AI-powered search ubiquitous. The times of sifting through SEO spam, sponsored links, and multiple web pages will be replaced by a much more efficient way to consume and share information, propelling our society into a new era of accelerated learning and research.
 * Perplexity.AI has been highly reviewed and has some big name backers which is causing huge media buzz around it. Company claims it has around 10 million users currently. 
-* Something that should be mentioned is that Perplexity.ai is publisher-friendly. It does a great job of linking to the websites from which the answers were sourced.
-* The company has seen an uptick in subscribers of its premium Copilot service, which charges $20 a month for a more powerful version of the search engine that uses GPT-4, OpenAI’s most advanced AI model. Copilot tailors search queries with custom follow-up questions, introducing the concept of generative user interfaces. It removes the burden of prompt engineering and does not require users to ask perfectly phrased questions to get the answers they seek. This enables users to gain more relevant and comprehensive answers than other AI chatbots, traditional search engines, or research tools.
+* Something that should be mentioned is that Perplexity.ai is publisher-friendly as it links the websites from which the answers were sourced.
+* The company has seen an uptick in subscribers of its premium Copilot service, which charges $20 a month for a more powerful version of the search engine. Copilot tailors search queries with custom follow-up questions, introducing the concept of generative user interfaces. It removes the burden of prompt engineering and does not require users to ask perfectly phrased questions to get the answers they seek. This enables users to gain more relevant and comprehensive answers than other AI chatbots, traditional search engines, or research tools.
 * Company also offers model subscription business. They currently have about 10k developers signed up, but no large enterprises yet. Their current estimated annual revenue is estimated to be around $10 million. 
 * Of course, even if Perplexity does hit a $1 billion valuation, it has a long way to go to truly challenge Google, which has enormous resources and AI talent at its disposal—and whose parent Alphabet is valued at around $1.7 trillion.
 * When a Fortune magazine reporter asked Perplexity's CEO "*how on earth Perplexity finds scale in search?*" Answer he got was “*You can ask all these questions and I think they’re all fair, pretty rational ways of thinking about it. But startups are for irrational people, right?*” Fair point!
