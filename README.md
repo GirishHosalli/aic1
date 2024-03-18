@@ -5,28 +5,41 @@
 * [Perplexity.AI](https://www.perplexity.ai "Answer engine where the knowledge begins") was started in August 2022 and based in san Francisco, CA. Some view Perplexity.ai as a serious contender in AI Search. It was founded by people with links to DeepMind, OpenAI & Quora. It is backed by some of the leading Silicon Valley investors.
 * It's founders are **Aravind Srinivas, CEO and Denis Yarats, CTO**. **Johnny Ho** came on board soon after. Johnny Ho has won number [2012 International Competitive Programming Contest](https://cphof.org/standings/ioi/2012).
 * Company initially started as Text to SQL tool company. It's CEO Aravind Srinivas said in a [CNBC interview](https://www.cnbc.com/video/2024/03/04/google-seems-to-have-the-most-difficulty-executing-when-it-comes-to-ai-says-perplexity-ceo.html?&qsearchterm=perplexity.ai), when one of his first employee was asking about healthcare, deductibles, copay etc. he did not know what it all meant at that time. He searched Google and was served with whole list of links to read and figure out. Apparently that was the time he thought of building a search/answer engine that would provide concise, true and verifiable answers to users queries.
-* Aravind Srinivas did BS and MS from IIT, Chennai, India. Aravind did internship with Open AI and Deepmind while doing his PhD at UC Berkley. He stumbled upon the book "*How Google Works*" by Eric Schmidt while working as an intern for Google's Deepmind in London. Aravind says, his take away from that book was how the research work can be translated into entrepreneurship. He found out [*Transformer*](https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)) was highly ranked search term at that time on Google. He then did internship at Google alongside Ashish Vaswani, a key contributor to *Transformer*. After completing his PhD from UC Berkley, he joined Open AI as a researcher, where he worked on Diffusion Model, another generative model. During that time he observed how many other companies like *Jasper*, *Copy AI* and *GitHub copilot* were building products on top of Open AI's Chat GPT. They were making lot more revenue than Open AI itself. Then he thought of starting his own company but did not know what will be it's product. 
+* Aravind Srinivas did BS and MS from IIT, Chennai, India. Aravind did internship with Open AI and Deepmind while doing his PhD at UC Berkley. He stumbled upon the book "*How Google Works*" by Eric Schmidt while working as an intern for Google's Deepmind in London. Aravind says, his take away from that book was how the research work can be translated into entrepreneurship. He found out [*Transformer*](https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)) was highly ranked search term at that time on Google. He then did internship at Google alongside Ashish Vaswani, a key contributor to *Transformer*. After completing his PhD from UC Berkley, he joined Open AI as a researcher, where he worked on Diffusion Model, another generative model. During that time he observed how many other companies like *Jasper*, *Copy AI* and *GitHub copilot* were building products on top of Open AI's Chat GPT. They were making lot more revenue than Open AI itself. Then he thought of starting his own company but did not know what will be it's product. (source an interview on [YouTube](https://www.youtube.com/watch?v=ADyaGQza8pI)) 
 * They got initial seed funding of about $2.5 million. Elad Gil and Nat Friedman were initial seed investors. Last year they raised about $25.6 million in [Series A funding](https://www.perplexity.ai/hub/blog/announcing-our-series-a-funding-round-and-mobile-app-launch). In Jan 2024 it raised another $73.6 Million in [Series B funding](https://www.perplexity.ai/hub/blog/perplexity-raises-series-b-funding-round). They have raised about $100 million now and it is currently valued at around $520 million. 
 * Perplexity is rumored to be finalizing their third round of fund raise valuing the company at around $1 billion according to [WSJ](https://www.wsj.com/tech/ai/ai-search-startup-perplexity-set-to-double-valuation-to-1-billion-b84be204).
 * It's backers include NEA, Elad Gil, Nat Friedman (former CEO of GitHub), and Databricks, Susan Wojcicki (Former CEO of Youtube), Paul Buchheit (Creator of Gmail), Soleio (Designer of Messenger, Dropbox), NVIDIA, Yann LeCun (Chief Scientist, Meta), Andrej Karpathy (Founding Member, OpenAI), Ashish Vaswani (Lead contributor to Transformer), Amjad Masad (CEO, Replit), Clem Delangue (CEO, HuggingFace), Jeff Bezos (through Bezos Expeditions Fund), Tobi Lutke (Shopify founder & CEO), Bob Muglia (former Microsoft President), Bessemer Venture Partners, Naval Ravikant (founder and former CEO of AngelList), Balaji Srinivasan (former CTO of Coinbase & former GP at Andereessen Horowitz), Guillermo Rauch, Austen Allred, Factorial Funds, and Kindred Ventures,
 
 ## Business Activities
 
-* [Perplexity.ai](https://www.perplexity.ai), founded in 2022, is an innovative alternative to Google that provides contextually rich answers and has 10 million monthly active users.
+* [Perplexity.ai](https://www.perplexity.ai), founded in 2022, is an innovative alternative to Google that provides contextually rich answers and has 10 million monthly active users. It identifies itself as 'Answer Engine' vs commonly perceived notion of the company as a Search Engine company.
 * Perplexity's mission statement 
     > "Our long-term mission is to become the best platform for answers and information, serving as the go-to source for people seeking quick, accurate answers tailored to their asks.
 We envision Perplexity AI as a platform beyond a traditional search engine, evolving into a comprehensive knowledge hub where anyone can explore and learn effortlessly. In pursuit of this vision, we are committed to providing citations with every answer, providing proper attribution for sources of information and allowing for verification."
 * It is built specifically to provide accurate and verifiable answers to users' search queries. 
 * It prides itself as serving answers that are verifiable. By providing answers using data from verifiable sources it avoids hallucination problem, according to it's CEO. 
-* It identifies itself as 'Answer Engine' vs commonly perceived notion of the company as a Search Engine company.
+
 ![alt text](image-1.png)
+* As you can see above, rendered results point the source of information and user go to the source itslef. User is also presented with additional related questions which then can give additional information.
+
 * The technical architecture behind Perplexity AI involves a neural network architecture similar to GPT-3, but with optimizations that enhance its functionality. Perplexity AI harnesses the power of OpenAI's GPT-3.5, enabling it to provide precise and up-to-date answers. When a user inputs a query, Perplexity AI uses natural language processing (NLP) to understand the context and intent of the question. It then scours the internet in real-time, indexing web pages and content to find relevant answers. The platform ranks results to ensure the most relevant, reliable, and up-to-date information is presented first.
 * Perplexity AI focuses on providing accurate and detailed information in response to user queries through a chatbot-like interface, while GPT-3 excels in generating diverse types of content with human-like quality but may not offer the same level of precision in answering specific questions as Perplexity AI does.
-* One can think of it as a wrapper around GPT-3.5 with additional optimization. As I uderstand, it also uses other open source models like Mistral and Llama.
+* One can think of it as a wrapper around GPT with additional optimization. Perplexity leverages models like GPT-4, Claude 2.1, and Gemini Pro to provide a conversational search experience that evolves alongside AI innovations.
+* [Perplexity has built two new PPLX models](https://www.perplexity.ai/hub/blog/introducing-pplx-online-llms): pplx-7b-online and pplx-70b-online and are publicly available via [pplx-api](https://docs.perplexity.ai/docs/getting-started). PPLX models build on top of mistral-7b and llama2-70b base models.
+* pplx-7b-online and pplx-70b-online are also accessible via [Perplexity Labs](https://labs.perplexity.ai).
 
 ## Landscape 
 
-In the last few years there have been lot of interest in building AI based web search tools. Below are some of the AI Search Engine companies (source [Search Engine Journal](https://www.searchenginejournal.com)).
+In the last few years there have been lot of interest in building AI based web search tools especially after the release of ChatGPT 3.5. Below are some of the AI Search Engine companies (source [Search Engine Journal](https://www.searchenginejournal.com)).
+
+|  Search Engine  | Company                 | Founders                    |     LLM Model                 | 
+|:---------------:|:-----------------------:|:---------------------------:|:------------------:|
+|  Andi Search    |    Andi                 | Angela Hoover               | several commercial and open-source Large Language Models (LLMs), knowledge graphs, and Google, Bing, and other search engines        |
+|  Brave Search   |    Brave Software       | Brendan Eich and Brian Bondy|  BART & DeBERTa                  |
+| You AI          |   You.com               | Richard Socher              | Vicuna-13B which is trained from finetuning LLaMa 13B      |
+| Phind           |   Hello Cognition, Inc  |                             | PHIND-34B MODEL  |
+| Bing w/ Copilot |   Microsoft             | Bill Gates and Paul Allen   | GPT-4     |
+| Gemini          |   Alphabet              | Larry Page and Sergey Brin  | Gemini Ultra, Gemini Pro, and Gemini Nano  |                   
 
 ### Andi Search 
 [Andi Search](https://andisearch.com) is a generative AI search engine that offers an interpretation of a better way to explore the Internet and obtain knowledge.
@@ -36,7 +49,7 @@ It uses AI throughout the entire search results, not just at the top of the page
 Andi Search uses a mix of technologies.
 In a 2022 Q&A, Andi Search engineers said they use several commercial and open-source Large Language Models (LLMs), knowledge graphs, and Google, Bing, and other search engines (50% of the time in 2022).
 
-### Brave AI Search Summerizer
+### Brave AI Search Summarizer
 [Brave Search](https://search.brave.com) is a privacy-first search engine. 
 
 The technology powering Brave consists of three LLMs trained for:
@@ -91,16 +104,18 @@ Google has the disclaimer "Gemini will not always get it right. Gemini may give 
 
 
 > ##### *References:* 
-*www.perplexity.ai*
+*[Perplexity.AI](www.perplexity.ai)*
 
-*www.cnbc.com*
+*[CNBC](www.cnbc.com)*
 
-*www.cearchEngineJournal.com*
+*[Search Engine Journal](www.cearchEngineJournal.com)*
 
-*www.youtube.com*
+*[YouTube](www.youtube.com)*
 
-*www.cortune.com*
+*[Fortune](www.cortune.com)*
 
-*www.WSJ.com*
+*[Wall Street Journal](www.WSJ.com)*
 
-*www.pcmag.com*
+*[PC Magazine](www.pcmag.com)*
+
+*[Search Engine Land](https://searchengineland.com)
