@@ -116,4 +116,4 @@ Google has the disclaimer "Gemini will not always get it right. Gemini may give 
 
 *[Search Engine Land](https://searchengineland.com)*
 
-*[Wired Magazine](https://www.wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/)
+*[Wired Magazine](https://www.wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/)*
